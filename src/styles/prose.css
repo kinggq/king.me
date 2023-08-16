@@ -1,0 +1,28 @@
+.prose {
+  max-width: 65ch;
+  line-height: 1.6;
+  margin-bottom: 1.2em;
+  margin-bottom: 1.2em;
+  font-size: 1rem;
+}
+
+.prose h1 {
+  font-size: 2.25em;
+}
+.prose p {
+  margin-bottom: 1.25em;
+  margin-top: 1.25em;
+}
+
+.prose a {
+  border-bottom: 1px solid;
+}
+
+a.item {
+  border-bottom: none !important; 
+}
+
+.prose hr {
+  width: 50px;
+  margin: 2em auto;
+}
