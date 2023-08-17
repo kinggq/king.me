@@ -14,7 +14,7 @@ projects:
       icon: 'i-arcticons:betterschedule'
     - name: 'Whiteboard'
       link: 'https://github.com/kinggq/whiteboard'
-      desc: '基于Vue3 Typescript的时间表拖拽选择组件，例如广告投放时间排期选择等。'
+      desc: '基于Vue3和Typescript的团队协作工具'
       icon: 'i-vscode-icons:file-type-taskfile'
 ---
 
