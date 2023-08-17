@@ -1,7 +1,7 @@
 ---
 title: 包国强 
 description: 包国强的个人网站
-image: https://antfu.me/og.png
+image: 
 plum: true
 ---
 

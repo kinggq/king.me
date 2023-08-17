@@ -5,6 +5,8 @@ import 'uno.css'
 
 import autoRoutes from 'virtual:generated-pages'
 import NProgress from 'nprogress'
+import dayjs from 'dayjs'
+import LocalizedFormat from 'dayjs/plugin/localizedFormat.js'
 import { ViteSSG } from 'vite-ssg'
 import { setupRouterScroller } from 'vue-router-better-scroller'
 import App from './App.vue'
@@ -24,7 +26,7 @@ export const createApp = ViteSSG(
     routes,
   },
   ({ router, app, isClient }) => {
-    // dayjs.extend(LocalizedFormat)
+    dayjs.extend(LocalizedFormat)
 
     // app.use(FloatingVue)
 

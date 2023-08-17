@@ -3,13 +3,17 @@
 </script>
 
 <template>
-  <header flex justify-between>
-    <RouterLink to="/" />
+  <header flex items-center justify-between>
+    <RouterLink to="/" m-5>
+      <h1 text="20px gray-500" font-bold>
+        King
+      </h1>
+    </RouterLink>
     <nav class="nav">
       <div />
       <div class="right">
         <RouterLink to="/posts" title="Blog">
-          <span>Blog</span>
+          <span class="lt-md:hidden">Blog</span>
           <div i-ri-article-line md:hidden />
         </RouterLink>
         <RouterLink to="/projects" title="Projects">
