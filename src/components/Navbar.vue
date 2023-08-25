@@ -2,7 +2,6 @@
 const vTextHoverColor = {
   mounted(el: HTMLElement, { value = 'black' }) {
     // 需要给父盒子加相对定位或绝对定位
-    console.log('value', value)
     const mask = document.createElement('div')
     const line = document.createElement('div')
     mask.innerHTML = el.innerHTML
