@@ -13,8 +13,6 @@ plum: true
 
 我是一名开源爱好者，我做的一些小工具，[NaiveChat](https://github.com/kinggq/naive-chat)、[ScheduleVue](https://github.com/kinggq/vue-schedule)、[Whiteboard](https://github.com/kinggq/whiteboard) 等。
 
-除了写代码我还喜欢旅行和摄影。我的一些视频可以在抖音上找到，[@周末.King]()。
-
 我的梦想是实现旅居生活，实现它是我的热情所在。
 
 还有，润。
