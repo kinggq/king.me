@@ -16,6 +16,7 @@
 
 .prose a {
   border-bottom: 1px solid;
+  text-decoration: none;
 }
 
 a.item {
