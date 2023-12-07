@@ -59,3 +59,17 @@ type: note
 - トイレは**どこ**ですか？（to i re wa do ko de su ka） 厕所在哪里
 
 - ~~トイレは~~あそこです（to i re wa a so ko de su） 厕所在那里
+
+### 练习
+
+1、这是我的钥匙吗？
+
+これは私の鍵（かぎ）ですか？（ko re wa wa ta si no ka gi de su ka）
+
+2、你的摩托车是哪一个？
+
+あなたのバイクはどれですか？（a na ta no ba i ku wa do re de su ka）
+
+3、这本书是谁的？
+
+この本（ほん）は誰（だれ）のですか？（ko no hon wa da re no de su ka）
