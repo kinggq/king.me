@@ -6,4 +6,4 @@ display: ''
 
 <SubNav />
 
-空
+<ListPosts type="note" />

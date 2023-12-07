@@ -1,7 +1,11 @@
 import '@unocss/reset/tailwind.css'
 import './styles/main.css'
 import './styles/prose.css'
+import './styles/markdown.css'
 import 'uno.css'
+import 'markdown-it-github-alerts/styles/github-colors-light.css'
+import 'markdown-it-github-alerts/styles/github-colors-dark-class.css'
+import 'markdown-it-github-alerts/styles/github-base.css'
 
 import autoRoutes from 'virtual:generated-pages'
 import NProgress from 'nprogress'

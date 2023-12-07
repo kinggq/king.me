@@ -13,6 +13,7 @@ import Markdown from 'unplugin-vue-markdown/vite'
 import { bundledLanguages, getHighlighter } from 'shikiji'
 import anchor from 'markdown-it-anchor'
 import LinkAttributes from 'markdown-it-link-attributes'
+import GitHubAlerts from 'markdown-it-github-alerts'
 
 // @ts-expect-error missing types
 import TOC from 'markdown-it-table-of-contents'
@@ -80,7 +81,7 @@ export default defineConfig({
 
         md.use((markdown) => {
           markdown.options.highlight = (code, lang) => {
-            const themed = shiki.codeToHtmlThemes(code, {
+            return shiki.codeToHtml(code, {
               lang,
               themes: {
                 light: 'vitesse-light',
@@ -88,7 +89,6 @@ export default defineConfig({
               },
               cssVariablePrefix: '--s-',
             })
-            return `${themed}`
           }
         })
 
@@ -113,6 +113,8 @@ export default defineConfig({
           slugify,
           containerHeaderHtml: '<div class="table-of-contents-anchor"><div class="i-ri-menu-2-fill" /></div>',
         })
+
+        md.use(GitHubAlerts)
       },
     }),
 
@@ -158,5 +160,9 @@ export default defineConfig({
   // https://github.com/vitest-dev/vitest
   test: {
     environment: 'jsdom',
+  },
+  ssgOptions: {
+    formatting: 'minify',
+    format: 'cjs',
   },
 })
