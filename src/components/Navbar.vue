@@ -53,12 +53,10 @@ const vTextHoverColor = {
 
 <template>
   <header flex items-center justify-between>
-    <RouterLink to="/" m-5>
-      <div class="TextHoverColor">
-        <h1 v-textHoverColor="'gray'" text="20px gray-500" font-bold>
-          King
-        </h1>
-      </div>
+    <RouterLink to="/" m-5 xl-fixed>
+      <h1 text="20px" font-bold>
+        King
+      </h1>
     </RouterLink>
     <nav class="nav">
       <div />
