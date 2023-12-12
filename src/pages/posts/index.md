@@ -4,4 +4,5 @@ display: ''
 ---
 
 <SubNav />
-我的博客
+
+<ListPosts only-date type="blog" />
