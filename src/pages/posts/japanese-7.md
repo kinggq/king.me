@@ -1,5 +1,5 @@
 ---
-title: 【日语】可能动词的变化性用法 - 第七节
+title: 【日语】可能动词的变化与用法 - 第七节
 date: Wed Dec 27 2023 15:41:18 GMT+0800 (中国标准时间)
 lang: zh
 duration: 2h

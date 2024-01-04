@@ -1,5 +1,5 @@
 ---
-title: 【日语】动词て形的变化形用法 - 第三节
+title: 【日语】动词て形的变化与用法 - 第三节
 date: Fri Dec 15 2023 14:12:21 GMT+0800 (中国标准时间)
 lang: zh
 duration: 6day

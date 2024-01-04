@@ -1,5 +1,5 @@
 ---
-title: 【日语】动词な形的变化形用法 - 第五节
+title: 【日语】动词な形的变化与用法 - 第五节
 date: Tue Dec 26 2023 16:33:17 GMT+0800 (中国标准时间)
 lang: zh
 duration: 2h

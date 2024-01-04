@@ -1,5 +1,5 @@
 ---
-title: 【日语】动词た形的变化形用法 - 第四节
+title: 【日语】动词た形的变化与用法 - 第四节
 date: Tue Dec 26 2023 13:43:30 GMT+0800 (中国标准时间)
 lang: zh
 duration: 4h
