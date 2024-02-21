@@ -3,7 +3,7 @@ title: I want to immigrate
 date: Thu Feb 01 2024 16:59:37 GMT+0800 (中国标准时间)
 lang: en
 duration: 2h
-type: note
+type: blog
 ---
 
 ### Why Immigrate?

@@ -3,7 +3,7 @@ title: 我要移民
 date: Thu Feb 01 2024 13:58:37 GMT+0800 (中国标准时间)
 lang: zh
 duration: 2h
-type: note
+type: blog
 ---
 
 ### 为什么要移民？
